@@ -1,0 +1,306 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 32686 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/zumbr/Desktop/school/VR/git/Scuba-Adventure/Scuba Adventure
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60712
+Successfully changed project path to: C:/Users/zumbr/Desktop/school/VR/git/Scuba-Adventure/Scuba Adventure
+C:/Users/zumbr/Desktop/school/VR/git/Scuba-Adventure/Scuba Adventure
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.58 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.81 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/zumbr/Desktop/school/VR/git/Scuba-Adventure/Scuba Adventure/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001697 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.82 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.42 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 1733 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 81.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2168.
+Total: 2.309500 ms (FindLiveObjects: 0.141000 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.044700 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.xr.interaction.toolkit/package.json
+  artifactKey: Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/package.json using Guid(fac9fb4ad804244e0911f21e340a3d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4dffed7fe7c4b25490b4bfc6f63104') in 0.024000 seconds
+  Import took 0.026432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.880533 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Editor/Unity.XR.Interaction.Toolkit.Editor.asmdef
+  artifactKey: Guid(190979c3ed6e41c448f5e9925429edf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Editor/Unity.XR.Interaction.Toolkit.Editor.asmdef using Guid(190979c3ed6e41c448f5e9925429edf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a509d61df8563280d09439625a81d88e') in 0.007130 seconds
+  Import took 0.011184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.974177 seconds.
+  path: Packages/com.unity.xr.interaction.toolkit/Runtime/Unity.XR.Interaction.Toolkit.asmdef
+  artifactKey: Guid(fe685ec1767f73d42b749ea8045bfe43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.interaction.toolkit/Runtime/Unity.XR.Interaction.Toolkit.asmdef using Guid(fe685ec1767f73d42b749ea8045bfe43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec7c6d330421deb537e484432862b55') in 0.004191 seconds
+  Import took 0.006426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.908267 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Continuous Move.preset
+  artifactKey: Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Continuous Move.preset using Guid(91f9da00cfdac5d49955df2d2d820b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9bf61680572673419c9895e9196742') in 0.015518 seconds
+  Import took 0.018217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Left Controller.preset
+  artifactKey: Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Left Controller.preset using Guid(ffd8268f7307a0c48a067dad4a8fe060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fedf51ca6b58850600952c484cbdfda') in 0.013627 seconds
+  Import took 0.015735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Snap Turn.preset
+  artifactKey: Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Snap Turn.preset using Guid(18697d253d848974aa7052cba872c9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e47bb19b8ce84e7f6f4291483904a26') in 0.011289 seconds
+  Import took 0.013378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Input Actions.inputactions
+  artifactKey: Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Input Actions.inputactions using Guid(c348712bda248c246b8c49b3db54643f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0b52ff129020faac8787656d5c0815') in 0.011210 seconds
+  Import took 0.013447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Continuous Turn.preset
+  artifactKey: Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Continuous Turn.preset using Guid(0caad3af14f9a414dbdf25ed41e5aa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09d58cc048accdd1d8743276cd6fb64') in 0.006855 seconds
+  Import took 0.008994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Right Controller.preset
+  artifactKey: Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/1.0.0-pre.3/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b194af01cf52c45f90ec059d3bfe6b') in 0.005978 seconds
+  Import took 0.008114 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004265 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 8 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.2 MB.
+System memory in use after: 81.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2172.
+Total: 1.975600 ms (FindLiveObjects: 0.133600 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.601000 ms  DeleteObjects: 0.188600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 437.124388 seconds.
+  path: Assets/New Prefab.prefab
+  artifactKey: Guid(c2bc7820e4e5e4b48a127d54ac6c5e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Prefab.prefab using Guid(c2bc7820e4e5e4b48a127d54ac6c5e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba16b865719ffdbaa3dded1ff621ad9') in 0.024679 seconds
+  Import took 0.027291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.808579 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.004998 seconds
+  Import took 0.007097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.477271 seconds.
+  path: Assets/Pefabs
+  artifactKey: Guid(0d4858947fc604947be6af25bfb632cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pefabs using Guid(0d4858947fc604947be6af25bfb632cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d72fb38180440c4e6ab079fef94b2b3') in 0.004392 seconds
+  Import took 0.006431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.289160 seconds.
+  path: Assets/Pefabs/XR Rig.prefab
+  artifactKey: Guid(95cf2ef2a8043af45afd3c1c60bfbaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pefabs/XR Rig.prefab using Guid(95cf2ef2a8043af45afd3c1c60bfbaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e822f36e3ebfb09c86e45fc44ef38d02') in 0.042031 seconds
+  Import took 0.044533 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.7 MB.
+System memory in use after: 81.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2193.
+Total: 1.689500 ms (FindLiveObjects: 0.144000 ms CreateObjectMapping: 0.050100 ms MarkObjects: 1.447400 ms  DeleteObjects: 0.046800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 1722 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.6 MB.
+System memory in use after: 81.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 1.861100 ms (FindLiveObjects: 0.137800 ms CreateObjectMapping: 0.050800 ms MarkObjects: 1.621300 ms  DeleteObjects: 0.050200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.089912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 2252 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.6 MB.
+System memory in use after: 100.2 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 5.402100 ms (FindLiveObjects: 0.194000 ms CreateObjectMapping: 0.091400 ms MarkObjects: 1.518900 ms  DeleteObjects: 3.596700 ms)
+
