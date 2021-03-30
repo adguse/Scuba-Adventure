@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 2048
     height: 1019
-  m_MinSize: {x: 677, y: 492}
+  m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 141
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 364.8
     height: 607.2
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -179,8 +179,8 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LoadedToolbars:
-  - {fileID: 19}
-  m_MainToolbar: {fileID: 19}
+  - {fileID: 20}
+  m_MainToolbar: {fileID: 20}
   m_LastLoadedLayoutName: 
 --- !u!114 &8
 MonoBehaviour:
@@ -224,10 +224,10 @@ MonoBehaviour:
     y: 0
     width: 1472.8
     height: 1019
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 93
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,10 +249,10 @@ MonoBehaviour:
     y: 0
     width: 1472.8
     height: 607.2
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 90
+  controlID: 94
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,7 +331,7 @@ MonoBehaviour:
     height: 390.8
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: handright
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -341,24 +341,24 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 1
+    m_SearchArea: 0
     m_Folders:
-    - Assets/Oculus/SampleFramework/Core/Locomotion
+    - Assets/Oculus/Avatar/Samples/LocalAvatar
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: handright
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Oculus/SampleFramework/Core/Locomotion
+  - Assets/Oculus/Avatar/Samples/LocalAvatar
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\zumbr\Desktop\school\VR\git\Scuba-Adventure\Scuba Adventure
+  m_LastProjectPath: C:\Users\zumbr\Desktop\school\VR\Scuba-Adventure\Scuba Adventure
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 93}
-    m_SelectedIDs: e44a0000
-    m_LastClickedID: 19172
-    m_ExpandedIDs: 0000000090460000924600009446000096460000a0460000a8460000b6460000b0470000b8470000bc470000d24a0000d84a0000e44a00005aa7000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 90590000
+    m_LastClickedID: 22928
+    m_ExpandedIDs: 00000000bc4c0000be4c0000c04c0000c24c0000cc4c0000e24c0000c2580000c8580000cc580000e658000090590000e4590000e65900005c6000007262000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000090460000924600009446000096460000
+    m_ExpandedIDs: 00000000bc4c0000be4c0000c04c0000c24c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,7 +474,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 12.799988
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -509,21 +509,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a864ffffca64ffff7e67ffff8274ffffa074ffffa874ffffb674ffff82a6fffff0a8ffff86aeffff60b1ffff44b4ffff5cb9ffff00bcffff7cbeffff2cc3ffffa4c5ffff80d1ffff9ee5ffff1ce8ffff62e8ffffe6eaffff4aebffffe4edffff20f4ffffc4f6ffff0ef7ffff36f7ffff92f7ffff4cfbffff8e5b0000c85b0000488d00007e8d0000448e000020960000229600002a96000064960000169f0000189f0000209f0000c29f000008a0000012a000004ca0000090a000009aa00000d4a0000018a1000022a10000
+      m_ExpandedIDs: a218feffc218feffe618feff7a1bfeff9a1bfeffbe1bfeffc61ffeffe61ffeff0a20feffb823feffd823feffee23feffdc2bfefffc2bfeff002cfeff822ffeffa22ffeffae2ffeff7647feff9647feffba47fefffc4afeff1c4bfeff404bfeffd84ffeffe04ffefffe4ffeff0850feff1850feff625efeff825efeff905efeff0875feff1475feff1675feff1875feff1a75feff3475feff5a75feff5c75feff5e75feffc27cfeff2e7efeff407efeff7680feff9680feffce80feffe484feff0485feff3c85feff4692feff1e94feff3e94feffa299fefffeaffeff22b0feff44b2feff6eb4feff8cb4feff34bdfeff14befeff32befeffa2c8feffc4c9feffe2c9feff46cffeff1ed0feff3cd0feff0ed3feff7cd3feff9ad3feff26d6feff94d6feffb2d6feffdcd7feff46d8feff64d8feffa2d8feff5ad9feff78d9feffd2dafeff74dbfeff92dbfeff20defeffbadefeffd8defeff68e1feff0ae2feff28e2feffb8e4feff6ee5feff8ee5feffa6e5feff38ecfeff58ecfeff5cecfeff34effeff52effefffaf7feffdaf8fefff8f8feff6803ffff8a04ffffa804ffff0c0affffe40affff020bffffd40dffff420effff600effffec10ffff5a11ffff7811ffffa212ffff0c13ffff2a13ffff6813ffff2014ffff3e14ffff9815ffff3a16ffff5816ffffe618ffff8019ffff9e19ffff2e1cffffd01cffffee1cffff7e1fffff3420ffff5420ffff6c20ffff9a26ffffbe26ffffe028ffff9435ffffb835ffff5e3effffe048ffff4e4effff2651ffffc853fffffe54ffff4255ffffbe56ffff5259ffffe85bffffb85effffee5effff2661ffffc464ffff6c70ffff9070ffffb470ffff2876ffff2a76ffff9478ffff0879ffff3c7dffff647dffff8e7fffff8e8effff3a92ffff9692ffff6494ffff569fffff82a2ffffa6a2ffffe2a2ffffaeacffff3eaeffff48aeffff4aaeffffe2b0ffff18b3ffff3cb3ffff6cb3ffff64b6ffff8cb6ffff22b9ffffecbcffff1abdffff00c3ffff24c3ffff48c3ffff1ec5ffff3ec5ffff42c5ffffeed1ffff12d2ffff36d2ffff0cd4ffff2cd4ffff30d4ffff50d5ffff6ed5ffff92d5ffff64d8ffff88d8ffffacdaffff38e1ffff5ee1ffffa2e3ffffc8eaffffd2eaffffe2eaffff4cfbffff6a700000787000007c700000e87a000034e300004ae300002243010042430100a043010004440100a64d0100964f0100e64f0100d8520100dc530100ee5301000254010042540100766401001678010022790100e07a0100c67c0100e67c0100487d0100c2830100a2850100ac850100b0850100cc850100f0850100009301000a9301000e9301002c93010010940100829b01008c9b0100909b0100ae9b0100a09c01006aac0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: PlayerController
-        m_OriginalName: PlayerController
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -35658
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -569,9 +569,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -13.83661, y: 1.401231, z: 6.5725484}
+    m_Target: {x: -13.779999, y: 2.7200003, z: 10.220001}
     speed: 2
-    m_Value: {x: -13.83661, y: 1.401231, z: 6.5725484}
+    m_Value: {x: -13.779999, y: 2.7200003, z: 10.220001}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -618,13 +618,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09752103, y: 0.88980895, z: -0.225077, w: -0.38494304}
+    m_Target: {x: 0.22035104, y: 0.034218192, z: -0.007932623, w: 0.9748327}
     speed: 2
-    m_Value: {x: -0.09751561, y: 0.88975954, z: -0.2250645, w: -0.38492167}
+    m_Value: {x: 0.22034143, y: 0.0342167, z: -0.007932276, w: 0.97479016}
   m_Size:
-    m_Target: 5.1635003
+    m_Target: 12.124355
     speed: 2
-    m_Value: 5.1635003
+    m_Value: 12.124354
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -707,7 +707,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -759,11 +759,36 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 680
-    width: 1631
-    height: 391
+    y: 680.8
+    width: 1471.8
+    height: 390.8
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor.CoreModule:UnityEditor.Experimental.TerrainAPI:StampTool
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Failed to load
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 550
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

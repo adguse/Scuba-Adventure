@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4208892519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e341768efcd53cde53f34faa70f8982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+Dependencies:
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0

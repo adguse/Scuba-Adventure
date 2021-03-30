@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 220638316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2510890bc0d1f9b7304210949908bdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Stylize Water Texture/Textures/Vol_36_5_Base_Color.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 124357335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f3cda54ec525d830b8d0dea215c76cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb1c98fd3fd2df8fe937870a85fedf92
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/DistanceGrabSettings.lighting
+Dependencies: []

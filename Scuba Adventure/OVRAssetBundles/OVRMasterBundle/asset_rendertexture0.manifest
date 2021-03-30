@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1645235851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e87cc6d322975bdd993d0da054e84d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: feaa08ab20190d02d4751c45ba900362
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/OVROverlay/Textures/OverlayRT.renderTexture
+Dependencies: []
