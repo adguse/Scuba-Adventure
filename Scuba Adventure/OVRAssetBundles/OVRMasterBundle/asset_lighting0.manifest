@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 124357335
+CRC: 3492402512
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6f3cda54ec525d830b8d0dea215c76cf
+    Hash: 454bdd41b5d414f902193b70c2828771
   TypeTreeHash:
     serializedVersion: 2
     Hash: bb1c98fd3fd2df8fe937870a85fedf92
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/SampleFramework/Usage/DistanceGrabSettings.lighting
+- Assets/Models/New Lighting Settings.lighting
 Dependencies: []

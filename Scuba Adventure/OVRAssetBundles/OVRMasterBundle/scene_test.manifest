@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 65782067
+CRC: 2716368515
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4492d1f2a85059cbe4a9fbb30fb28a2c
+    Hash: 940203a5e95432a3d9851dcf05e40d9c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 69d303578373eae295951c26ad33f3d0
+    Hash: 5dbc17125b6cd4244aada59206872fb6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -71,6 +71,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c39ed8fc6ad23b4ea42829f6f7dfc7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d28e41ac9fd00d54d8dbc3becd111218, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -89,6 +93,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 218
   Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
 - Class: 1953259897
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
@@ -96,5 +102,8 @@ Assets:
 - Assets/Scenes/test.unity
 Dependencies:
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_lighting0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_prefab0
