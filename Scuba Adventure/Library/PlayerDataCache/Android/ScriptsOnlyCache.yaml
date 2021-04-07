@@ -1,25 +1,22 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - CharacterCameraConstraint
     - Gravity
     - ONSPSettings
     - OVRTouchSample.Hand
     - OVRTouchSample.HandPose
     - OvrAvatarSettings
     - SwimmingController
+    - TerrainWave
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
-    - OVRDebugInfo
     - OVRGrabbable
     - OVRGrabber
     - OVRHeadsetEmulator
     - OVRManager
-    - OVRPlayerController
-    - OVRSceneSampleController
     - OVRScreenFade
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -28,8 +25,6 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
-    Unity.XR.Oculus.Editor.dll:
-    - Unity.XR.Oculus.Editor.OculusSettingsEditor
     Unity.XR.Oculus.dll:
     - Unity.XR.Oculus.OculusLoader
     - Unity.XR.Oculus.OculusSettings
@@ -78,10 +73,6 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1896}
-    - Class: 114
-      Script: {instanceID: 1962}
-    - Class: 114
       Script: {instanceID: 1982}
     - Class: 114
       Script: {instanceID: 1990}
@@ -94,32 +85,28 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2854}
     - Class: 114
-      Script: {instanceID: 3184}
-    - Class: 114
       Script: {instanceID: 3728}
     - Class: 114
       Script: {instanceID: 3890}
     - Class: 114
-      Script: {instanceID: 4030}
+      Script: {instanceID: 4062}
     - Class: 114
-      Script: {instanceID: 4274}
+      Script: {instanceID: 4276}
     - Class: 114
-      Script: {instanceID: 4302}
+      Script: {instanceID: 4304}
     - Class: 114
-      Script: {instanceID: 4972}
+      Script: {instanceID: 4874}
     - Class: 114
-      Script: {instanceID: 4988}
+      Script: {instanceID: 4880}
     - Class: 114
-      Script: {instanceID: 19770}
+      Script: {instanceID: 4978}
     - Class: 114
-      Script: {instanceID: 39636}
+      Script: {instanceID: 4994}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
       Script: {instanceID: 0}
     - Class: 137
-      Script: {instanceID: 0}
-    - Class: 143
       Script: {instanceID: 0}
     - Class: 154
       Script: {instanceID: 0}
@@ -1236,6 +1223,12 @@ ScriptsOnlyBuild:
     className: InteractableToolsInputRouter
   - hash:
       serializedVersion: 2
+      Hash: 11bf598fec087b1eb2fd09ada969b295
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SwimmingController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1639,6 +1632,18 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TerrainWave
+  - hash:
+      serializedVersion: 2
+      Hash: d997f94c3da5fc3a689e9305e1ea3c16
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Gravity
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Oculus.Platform.dll
     namespaceName: Oculus.Platform.Samples.VrHoops
     className: P2PNetworkBall
@@ -1774,18 +1779,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: OculusSampleFramework
     className: TrackSegment
-  - hash:
-      serializedVersion: 2
-      Hash: 11bf598fec087b1eb2fd09ada969b295
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SwimmingController
-  - hash:
-      serializedVersion: 2
-      Hash: d997f94c3da5fc3a689e9305e1ea3c16
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Gravity
   platform: 13
   scenePathNames:
   - Assets/Scenes/test.unity
