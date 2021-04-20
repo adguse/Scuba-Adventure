@@ -49,6 +49,10 @@ using Node = UnityEngine.XR.XRNode;
 /// </summary>
 public class OVRManager : MonoBehaviour, OVRMixedRealityCaptureConfiguration
 {
+
+	 void Start() {
+		OVRPlugin.systemDisplayFrequency = 90.0f;
+	}
 	public enum XrApi
 	{
 		Unknown = OVRPlugin.XrApi.Unknown,
