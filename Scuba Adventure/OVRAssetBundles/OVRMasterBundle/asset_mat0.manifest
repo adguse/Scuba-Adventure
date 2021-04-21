@@ -1,20 +1,34 @@
 ManifestFileVersion: 0
-CRC: 1752639523
+CRC: 4286702864
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 162186405ac2148a43db1be8d27f68c0
+    Hash: 0644fea1691e5ec01d1462b7a076da15
   TypeTreeHash:
     serializedVersion: 2
-    Hash: def2bc6467cb9fa38fe2d2f4733ddfe7
+    Hash: 9784b23ac3fcb93f4b235343e8d9877e
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 89
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Materials/Water.mat
+- Assets/Humpback whale/Materials/02 - Default.mat
+- Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat
+- Assets/#NVJOB Boids/Example Scenes/Other/Shark/Materials/Shark.mat
+- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0.mat
+- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1.mat
 - Assets/Oculus/SampleFramework/Usage/DistanceGrab/SkyboxMat.mat
 - Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
-Dependencies: []
+Dependencies:
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_tga0

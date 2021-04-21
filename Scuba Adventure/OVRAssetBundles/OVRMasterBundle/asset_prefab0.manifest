@@ -1,23 +1,46 @@
 ManifestFileVersion: 0
-CRC: 845122374
+CRC: 2495813414
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f826952267bdd7dc8d85ea93437ff2d7
+    Hash: 89de9cc4312a9077cf11f6d3f4448d1e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c9900dbb48279e0970669ed8026cc0ee
+    Hash: 7d34087b969e8bb4243bcbcccccac8d6
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 4
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb5effcc1704b94cae9b5eee849171b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fa35b9623162614881082335023629b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e37ce6c6e7ecdd42a13048d391f594b, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 135
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
-Dependencies: []
+- Assets/#NVJOB Boids/Simple Boids/Prefabs/Fish/Fish 0 Pref.prefab
+- Assets/#NVJOB Boids/Simple Boids/Prefabs/Fish/Fish 1 Pref.prefab
+- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Prefabs/Water.prefab
+- Assets/#NVJOB Boids/Simple Boids/Prefabs/Fish/NVBoids Fish.prefab
+- Assets/#NVJOB Boids/Example Scenes/Other/Shark/Prefabs/Shark.prefab
+Dependencies:
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_mat0

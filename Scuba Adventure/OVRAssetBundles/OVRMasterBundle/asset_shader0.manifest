@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 789522423
+CRC: 1866314952
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45ad8a6bdec06a9fe7017570ab4c8af3
+    Hash: 712a713aa35a49087f89d05c97ed096b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 79f786ec140312af9ec009eebd4de22e
@@ -13,5 +13,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/SampleFramework/Usage/Locomotion/Shaders/TriPlanarWorld.shader
+- Assets/Shaders/NewSurfaceShader.shader
+- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Water Shader Type
+  2.shader
+- Assets/#NVJOB Boids/Simple Boids/Fish NX Shaders.shader
 Dependencies: []

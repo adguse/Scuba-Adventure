@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1396249490
+CRC: 2894723964
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8954130129a912e14426a40efaff8888
+    Hash: 9c3d71388c2b0b08e5688e12a0e079cd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9d698a5aee0cf4f60c7a98b2bff38581
+    Hash: 03ce52bf6334b04d93cac24fbab4cb82
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,7 +15,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
 - Class: 43
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -23,18 +29,23 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
-- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_generic_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_generic_anim.fbx
-- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_mid_fist_anim.fbx
+- Assets/#NVJOB Boids/Simple Boids/Mesh/Fish Mesh.fbx
+- Assets/#NVJOB Boids/Example Scenes/Other/Shark/Mesh/Shark.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_mid_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_mid_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
+- Assets/Humpback whale/humpback_whale_model23.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_thumbs_up_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx

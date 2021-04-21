@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 881185514
+CRC: 2501418854
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f284467921b594e544c4b4957cd2c703
+    Hash: 9430b2a1a75f174aeff86c29c593414b
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -13,8 +13,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/metal_01_msm.tga
-- Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga
-- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_AlbedoRoughness.tga
-- Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/Textures/touchController_controlmap.tga
+- Assets/Humpback whale/Materials/humpback_whale_nrml_normals.TGA
+- Assets/Humpback whale/Materials/humpback_whale_col2.tga
 Dependencies: []
