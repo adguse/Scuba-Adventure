@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 605145369414792396}
   - component: {fileID: 1178468384087061129}
   - component: {fileID: 3974841853600247402}
-  - component: {fileID: 2646889250578503402}
   m_Layer: 0
   m_Name: Fish (1)
   m_TagString: Untagged
@@ -55,10 +54,12 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 90112486295759a4c841eac4e2002f9c, type: 2}
+  - {fileID: 2100000, guid: 0f54643a7c6ff8644ac7bfaf4f081755, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -79,18 +80,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &2646889250578503402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4079565112353650834}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc6470b2a4905f640aebf9c123836451, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _FOVAngle: 270
-  _smoothDamp: 1
-  speed: 0
+  m_AdditionalVertexStreams: {fileID: 0}

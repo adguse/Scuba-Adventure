@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2894723964
+CRC: 781641117
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c3d71388c2b0b08e5688e12a0e079cd
+    Hash: 4738c522143a68045c5e649bbd5225b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03ce52bf6334b04d93cac24fbab4cb82
@@ -38,8 +38,8 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_generic_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_generic_anim.fbx
-- Assets/#NVJOB Boids/Simple Boids/Mesh/Fish Mesh.fbx
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Mesh/Shark.fbx
+- Assets/#NVJOB Boids/Simple Boids/Mesh/Fish Mesh.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_mid_fist_anim.fbx
@@ -47,18 +47,23 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
 - Assets/Humpback whale/humpback_whale_model23.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
+- Assets/Ocean_fish/FBX/fish_03.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_thumbs_up_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/r_hand_skeletal_lowres.fbx
+- Assets/Ocean_fish/FBX/coral_03.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_3qtr_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_index_mask_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_point_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_pinch_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Ocean_fish/FBX/fish_01.FBX
+- Assets/Ocean_fish/FBX/fish_02.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_point_anim.fbx
+- Assets/Ocean_fish/FBX/fish_04.FBX
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_fist_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_anim.fbx
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/l_hand_skeletal_lowres.fbx

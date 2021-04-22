@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2886863311
+CRC: 976072386
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80eb4298724661b814385159b8cbc84e
+    Hash: 37ff3f1ecb49b33c81f292b7224c2681
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -13,17 +13,17 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1 N1.png
+- Assets/Ocean_fish/Textures/fish_03.png
 - Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Materials/Water
   tx.png
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1 A2.png
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1 A1.png
+- Assets/Ocean_fish/Textures/fish_02.png
+- Assets/Ocean_fish/Textures/fish_04.png
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Materials/Shark n.png
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Materials/Shark a.png
+- Assets/Ocean_fish/Textures/coral_03.png
+- Assets/Ocean_fish/Textures/fish_01.png
 - Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0 N1.png
 - Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0 N2.png
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1 N2.png
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1 E.png
 - Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Materials/Water
   tx 1.png
 - Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0 A1.png

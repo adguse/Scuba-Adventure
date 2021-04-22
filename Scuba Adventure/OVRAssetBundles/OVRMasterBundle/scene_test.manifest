@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1673143445
+CRC: 3612445905
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d926615de98d7a06380c869452c1a138
+    Hash: b9804a81125d24e4eec8c4554155ce34
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8a901423c4e4627e6bbce05cb92ca29c
+    Hash: 5c50306fa99cb3498425c853023bd60f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,6 +28,8 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 54
+  Script: {instanceID: 0}
+- Class: 64
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
@@ -77,8 +79,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d28e41ac9fd00d54d8dbc3becd111218, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 134
-  Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 - Class: 136
@@ -108,5 +108,4 @@ Dependencies:
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_lighting0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_physicmaterial0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_prefab0

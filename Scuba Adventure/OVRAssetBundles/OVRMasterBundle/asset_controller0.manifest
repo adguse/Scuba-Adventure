@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4208892519
+CRC: 3270591988
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e341768efcd53cde53f34faa70f8982
+    Hash: d494e822b2c6182fb8ead70c4594ff44
   TypeTreeHash:
     serializedVersion: 2
     Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
@@ -15,6 +15,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/fishController.controller
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
 Dependencies:

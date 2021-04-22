@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4286702864
+CRC: 1207749909
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0644fea1691e5ec01d1462b7a076da15
+    Hash: ff01b3ff609c78a93ebf8eb2f3e5d1ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9784b23ac3fcb93f4b235343e8d9877e
@@ -20,11 +20,15 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Materials/Water.mat
+- Assets/Ocean_fish/FBX/Materials/fish_02.mat
 - Assets/Humpback whale/Materials/02 - Default.mat
+- Assets/Ocean_fish/FBX/Materials/coral_03.mat
 - Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Materials/Shark.mat
+- Assets/Ocean_fish/FBX/Materials/fish_01.mat
+- Assets/Ocean_fish/FBX/Materials/fish_04.mat
 - Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0.mat
-- Assets/#NVJOB Boids/Simple Boids/Materials/Fish 1/Fish 1.mat
+- Assets/Ocean_fish/FBX/Materials/fish_03.mat
 - Assets/Oculus/SampleFramework/Usage/DistanceGrab/SkyboxMat.mat
 - Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
 Dependencies:
