@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 374477014
+CRC: 2120467448
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0cdc266dcf2935124e806bb6edd197e5
+    Hash: da05e016fcba57d6cb6d0016ee2829a3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b8bc491de672b81c53d86a4deefe425d
+    Hash: ffc245804b2c6e2e37d282928cacb58f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
@@ -35,31 +37,30 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2fb5effcc1704b94cae9b5eee849171b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6fa35b9623162614881082335023629b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8e37ce6c6e7ecdd42a13048d391f594b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Pefabs/ScubaFish4.prefab
-- Assets/Ocean_fish/Prefab/fish_02.prefab
 - Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
-- Assets/Pefabs/ScubaFish2.prefab
+- Assets/Rock Package/Prefabs/Rock_01.prefab
 - Assets/#NVJOB Boids/Simple Boids/Prefabs/Fish/Fish 0 Pref.prefab
-- Assets/Ocean_fish/Prefab/fish_04.prefab
-- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Prefabs/Water.prefab
+- Assets/Rock Package/Prefabs/Rock_02.prefab
+- Assets/Pefabs/boundary.prefab
+- Assets/Medieval_Gold/1_coin.prefab
 - Assets/#NVJOB Boids/Simple Boids/Prefabs/Fish/NVBoids Fish.prefab
-- Assets/Ocean_fish/Prefab/fish_03.prefab
 - Assets/Pefabs/ScubaFish1.prefab
-- Assets/Pefabs/ScubaFish3.prefab
 - Assets/Ocean_fish/Prefab/fish_01.prefab
-- Assets/Ocean_fish/Prefab/coral_03.prefab
+- Assets/Stylized Plants Kit/Models/Grass.prefab
+- Assets/Rock Package/Prefabs/Rock_06.prefab
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Prefabs/Shark.prefab
 Dependencies:
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_controller0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_mat1

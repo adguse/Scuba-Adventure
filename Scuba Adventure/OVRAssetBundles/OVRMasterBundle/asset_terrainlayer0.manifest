@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1212346350
+CRC: 3058402849
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e183c74f3a1c29ca18c6bef6cf2a46a1
+    Hash: 59541f63b6fc24ab8e9feb0543b77afa
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0b1b996afefcdb43727f3042384e65d2
@@ -17,4 +17,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Stylize Water Texture/Materials/NewLayer.terrainlayer
 Dependencies:
-- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png1

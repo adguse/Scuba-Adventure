@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1866314952
+CRC: 3732966880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 712a713aa35a49087f89d05c97ed096b
+    Hash: bca967e9baad066701f15198592fd9eb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 79f786ec140312af9ec009eebd4de22e
@@ -14,7 +14,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Shaders/NewSurfaceShader.shader
-- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Water Shader Type
-  2.shader
 - Assets/#NVJOB Boids/Simple Boids/Fish NX Shaders.shader
 Dependencies: []

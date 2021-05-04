@@ -1,14 +1,16 @@
 ManifestFileVersion: 0
-CRC: 4067770524
+CRC: 2014427925
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10c56af70b01ebfed5e481e195361a9d
+    Hash: 4c06b0a50778acfbc97fe5002b4845e5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ccf81ccd4b5221978afb0ca495889364
+    Hash: f2ba59db6501e53dbd7b2fecf93c6193
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
 - Class: 48
@@ -21,4 +23,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/New Terrain 1.asset
 Dependencies:
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_fbx0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

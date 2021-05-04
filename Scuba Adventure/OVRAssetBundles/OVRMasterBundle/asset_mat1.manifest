@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2581473088
+CRC: 4051821191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9fd5b4415a7c144ca70aa8958f7685b0
+    Hash: e73998edddf8e30a9d129d9587cf49cf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9784b23ac3fcb93f4b235343e8d9877e
+    Hash: b48f5048164b4cd7f73cc9f8cf76aa5d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -15,42 +15,23 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/WindmillMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBox.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SkyboxForRealtime.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinder.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/TriangleCursorTargeted.mat
-- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureSkeletonBoneMaterial.mat
-- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/TargetMaterial.mat
-- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/lambert1.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/TriangleCursorUntargeted.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/BackgroundMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/Ball10WithOutline.mat
-- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureHandMaterial.mat
-- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/RayMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/SoccerWhiteWithOutline.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/SoccerBlackWithOutline.mat
-- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/SportsBottle_lid.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/GroundMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/MAT_room_atlas_02.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/ToyCubeWithOutline.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SmokeMat.mat
-- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/MAT_room_atlas_01.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/SportsBottleMetalWithOutline.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxButtons.mat
-- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SkeletonBoneMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/PropMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/ToyCubeMat.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinderBase.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/GridMat.mat
+- Assets/Rock Package/Materials/M_Rock_02.mat
+- Assets/Rock Package/Materials/M_Rock_04.mat
+- Assets/Ocean_fish/FBX/Materials/coral_02.mat
+- Assets/LB3D/CrabMonster/Models/Materials/Eyes.mat
+- Assets/Stylized Plants Kit/Materials/Plants.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Ship_Body.mat
+- Assets/Ocean_fish/FBX/Materials/fish_01.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Sails_01.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Staircase.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Sails_Jib+Back.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Mast_02.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Fin+Basket+Doors.mat
+- Assets/Oculus/SampleFramework/Usage/DistanceGrab/SkyboxMat.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
 Dependencies:
-- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png1
-- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png2
-- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_tga0

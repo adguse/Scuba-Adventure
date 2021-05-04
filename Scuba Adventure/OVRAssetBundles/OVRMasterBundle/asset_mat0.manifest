@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1207749909
+CRC: 87271441
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff01b3ff609c78a93ebf8eb2f3e5d1ce
+    Hash: 66f88c5780f72a0a65fede0ad3a606d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9784b23ac3fcb93f4b235343e8d9877e
@@ -19,20 +19,40 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/#NVJOB Boids/Example Scenes/NVJOB Assets/Water Shader SAF/Materials/Water.mat
-- Assets/Ocean_fish/FBX/Materials/fish_02.mat
+- Assets/Oculus/Spatializer/scenes/materials/SpatializedObject1.mat
+- Assets/Rock Package/Materials/M_Rock_06.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Mast_01+Box.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Barrels_Material.mat
+- Assets/Rock Package/Materials/M_Rock_03.mat
+- Assets/Medieval_Gold/Materials/gold_coin_color.mat
 - Assets/Humpback whale/Materials/02 - Default.mat
+- Assets/Ocean_fish/FBX/Materials/coral_01.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Rig.mat
 - Assets/Ocean_fish/FBX/Materials/coral_03.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Sandbags+Lanterns.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Windows_Glasses.mat
 - Assets/Stylize Water Texture/Materials/Stylize Water Diffuse.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Hatches+Stairs.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Cannons+CannonBalls+Windows.mat
 - Assets/#NVJOB Boids/Example Scenes/Other/Shark/Materials/Shark.mat
-- Assets/Ocean_fish/FBX/Materials/fish_01.mat
 - Assets/Ocean_fish/FBX/Materials/fish_04.mat
+- Assets/LB3D/CrabMonster/Materials/Rikayon.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Boxes+TreasureChests.mat
+- Assets/Ocean_fish/FBX/Materials/coral_05.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Floor+Wheel.mat
 - Assets/#NVJOB Boids/Simple Boids/Materials/Fish 0/Fish 0.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Sails_02+Ladders+Foremast.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Rail.mat
+- Assets/Medieval_Gold/Materials/gold_bar_color.mat
+- Assets/Rock Package/Materials/M_Rock_01.mat
+- Assets/Ocean_fish/FBX/Materials/coral_04.mat
 - Assets/Ocean_fish/FBX/Materials/fish_03.mat
-- Assets/Oculus/SampleFramework/Usage/DistanceGrab/SkyboxMat.mat
-- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Rock Package/Materials/M_Rock_05.mat
+- Assets/Nokobot/ColonialShip/04_Materials/Ropes.mat
 Dependencies:
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_exr0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_png1
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_shader0
 - C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/zumbr/Desktop/school/VR/Scuba-Adventure/Scuba Adventure/OVRAssetBundles/OVRMasterBundle/asset_tif0

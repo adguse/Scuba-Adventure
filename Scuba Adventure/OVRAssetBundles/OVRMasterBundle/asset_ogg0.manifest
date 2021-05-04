@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3421188977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7eae599580f701e391c32ab68694b8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/#NVJOB Boids/Example Scenes/Other/Sounds/Underwater.ogg
+Dependencies: []

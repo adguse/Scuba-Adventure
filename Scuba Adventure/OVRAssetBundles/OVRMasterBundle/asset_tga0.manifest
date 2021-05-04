@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2501418854
+CRC: 329195041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9430b2a1a75f174aeff86c29c593414b
+    Hash: a34eb266eacf0c115a9286e247dbac79
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0363f7088f9761414f730641bf9a24b
@@ -13,6 +13,20 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Rock Package/Texture/T_Rock_04_N.TGA
+- Assets/Rock Package/Texture/T_Rock_02_D.TGA
+- Assets/Rock Package/Texture/T_Rock_06_D.TGA
+- Assets/Rock Package/Texture/T_Rock_01_N.TGA
+- Assets/Rock Package/Texture/T_Rock_05_D.TGA
+- Assets/Rock Package/Texture/T_Rock_03_D.TGA
+- Assets/Stylized Plants Kit/Materials/Plants_Normal.tga
 - Assets/Humpback whale/Materials/humpback_whale_nrml_normals.TGA
+- Assets/Rock Package/Texture/T_Rock_02_N.TGA
+- Assets/Rock Package/Texture/T_Rock_06_N.TGA
+- Assets/Rock Package/Texture/T_Rock_03_N.TGA
 - Assets/Humpback whale/Materials/humpback_whale_col2.tga
+- Assets/Rock Package/Texture/T_Rock_01_D.TGA
+- Assets/Rock Package/Texture/T_Rock_04_D.TGA
+- Assets/Rock Package/Texture/T_Rock_05_N.TGA
+- Assets/Stylized Plants Kit/Materials/Plants_Diffuse.tga
 Dependencies: []

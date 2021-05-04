@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1281312230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f752707467315a31648bf4a07767b1b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Medieval_Gold/textures/gold_bar_Specular.tif
+- Assets/Medieval_Gold/Materials/gold_bar_color.tif
+- Assets/Medieval_Gold/textures/gold_coin_color.tif
+- Assets/Medieval_Gold/textures/gold_coin_normals.tif
+- Assets/Medieval_Gold/textures/gold_coin_Specular.tif
+- Assets/Medieval_Gold/textures/gold_bar_normals.tif
+Dependencies: []

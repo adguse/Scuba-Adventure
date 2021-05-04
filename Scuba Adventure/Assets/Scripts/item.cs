@@ -8,17 +8,17 @@ public class item : MonoBehaviour
 {
     public itemCounter counter;
     private OVRGrabbable treasure;
+    private Rigidbody body;
 
     private void Awake() {
         treasure = GetComponent<OVRGrabbable>();
+        body = GetComponent<Rigidbody>();
     }
     
-    private void OnCollisionEnter(Collision other) {
-        counter.decreaseCounter();
-    }
 
     private void FixedUpdate() {
         if(treasure.isGrabbed){
+            body.useGravity = false;
             counter.decreaseCounter();
             Destroy(this);
             Destroy(gameObject,5);
